@@ -1,0 +1,3 @@
+Ivanov 30000
+Petrov 45000
+Smirnov 19000
